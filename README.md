@@ -25,7 +25,8 @@ Here are some of my highlighted projects:
 
 ### Python Projects
 
-- [ChatBot](https://github.com/i_soumya18/ChatBot) - LUNA A.I. is a chatbot powered by OpenAI's language model. It provides a conversational interface that allows users to interact with the chatbot through speech recognition or text input. The chatbot can perform various tasks such as opening websites, retrieving weather information, translating text, generating AI responses, and more..
+- [ChatBot](https://github.com/i_soumya18/ChatBot) - LUNA A.I. is a chatbot powered by OpenAI's language model.
+- [Attendance-Tracker](https://github.com/i_soumya18/Attendance-Tracker) - Simple desktop application allows users to track  and manage class schedules effortlessly.
 
 
 

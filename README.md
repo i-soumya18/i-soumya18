@@ -1,9 +1,22 @@
-# Hello, I'm Soumyaranjan Sahoo! 👋
+# Hello, I'm 
+<p align="center">
+<a href="https://github.com/i_soumya18">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Soumyaranjan+Sahoo;+%7C+B.Tech+Student" alt="Typing SVG" />
+</a>
+  
 
-![AI Engineering Student](https://img.shields.io/badge/Student-AI%20Engineering-blue)
-![Year](https://img.shields.io/badge/Year-2-orange)
+[![Centurion University](https://img.shields.io/badge/C.V_Raman_Global%20University-blue?style=for-the-badge&logo=website)](https://cgu-odisha.ac.in/)
 
-Welcome to my GitHub profile! I'm a passionate AI Engineering student with interests in Android development, Python projects, and Electronics. 
+
+
+
+
+
+
+
+
+
+Welcome to my GitHub profile! I'm a passionate AI&ML Engineering student with interests in Android development, Python projects, and Electronics. 
 
 ## 🔭 Skills
 
@@ -27,6 +40,8 @@ Here are some of my highlighted projects:
 
 - [ChatBot](https://github.com/i_soumya18/ChatBot) - LUNA A.I. is a chatbot powered by OpenAI's language model.
 - [Attendance-Tracker](https://github.com/i_soumya18/Attendance-Tracker) - Simple desktop application allows users to track  and manage class schedules effortlessly.
+
+
 
 
 

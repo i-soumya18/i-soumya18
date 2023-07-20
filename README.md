@@ -22,9 +22,6 @@ I'm always eager to learn new technologies and expand my skillset. Currently, I'
 
 Here are some of my highlighted projects:
 
-### Android Apps
-
-- [Project A](https://github.com/i_soumya18/project-a) - Brief description of the app.
 
 ### Python Projects
 
@@ -36,7 +33,7 @@ Here are some of my highlighted projects:
 
 I'm always open to collaborating on exciting projects or discussing AI and technology. Feel free to reach out to me through the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumyaranjan%20Sahoo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumyaranjan-sahoo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumyaranjan%20Sahoo-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/soumya-ranjan-sahoo-b06807248/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40soumyaranjan__s-blue?style=for-the-badge&logo=twitter)](https://twitter.com/soumyaranjan_s)
 [![Instagram](https://img.shields.io/badge/Instagram-%40i_soumya18-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/i_soumya18/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sahoosoumya24201-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/sahoosoumya24201)

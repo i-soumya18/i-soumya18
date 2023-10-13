@@ -53,6 +53,7 @@ I'm always open to collaborating on exciting projects or discussing AI and techn
 [![Twitter](https://img.shields.io/badge/Twitter-%40soumyaranjan__s-blue?style=for-the-badge&logo=twitter)](https://twitter.com/soumya78948)
 [![Instagram](https://img.shields.io/badge/Instagram-%40i_soumya18-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/i_soumya18/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sahoosoumya24201-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/sahoosoumya24201)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16326e15-57e9-478f-b00d-5af3deb734ff/deploy-status)](https://app.netlify.com/sites/soumyaranjansahoo18/deploys)
 
 
 

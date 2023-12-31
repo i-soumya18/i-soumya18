@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate AI & ML Engineering student with 
 ## 🔭 Skills
 
 - Android Development 📱
-- Python Projects 🐍
-- Electronic Projects 🔌
+- Full Stack Devloper
+- Electronic modules 🔌
 
 ## 🌱 Currently Learning
 

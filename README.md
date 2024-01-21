@@ -31,7 +31,7 @@ Here are some of my highlighted projects:
 ### Python Projects
 
 - [Personality-Prediction-System-via-CV-Analysis](https://github.com/i-soumya18/Personality-Prediction-System-via-CV-Analysis) 
-- [Plagiarism-Detection](https://github.com/i-soumya18/Plagiarism-Detectionr) 
+- [Plagiarism-Detection](https://github.com/i-soumya18/Plagiarism-Detection) 
 
 ## 📫 Let's Connect
 

@@ -13,8 +13,9 @@ Welcome to my GitHub profile! I'm a passionate AI & ML Engineering student with 
 ## 🔭 Skills
 
 - Android Development 📱
-- Full Stack Devloper
-- Electronic modules 🔌
+- Web Devloper
+- machine Learning
+  
 
 ## 🌱 Currently Learning
 
@@ -29,8 +30,8 @@ Here are some of my highlighted projects:
 
 ### Python Projects
 
-- [ChatBot](https://github.com/i_soumya18/ChatBot) - LUNA A.I. is a chatbot powered by OpenAI's language model.
-- [Attendance-Tracker](https://github.com/i_soumya18/Attendance-Tracker) - Simple desktop application allows users to track and manage class schedules effortlessly.
+- [Personality-Prediction-System-via-CV-Analysis](https://github.com/i-soumya18/Personality-Prediction-System-via-CV-Analysis) 
+- [Plagiarism-Detection](https://github.com/i-soumya18/Plagiarism-Detectionr) 
 
 ## 📫 Let's Connect
 

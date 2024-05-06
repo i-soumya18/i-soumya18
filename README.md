@@ -6,14 +6,12 @@
     </a>
 </p>
 
-[![Centurion University](https://img.shields.io/badge/C.V_Raman_Global%20University-blue?style=for-the-badge&logo=website)](https://cgu-odisha.ac.in/)
 
 Welcome to my GitHub profile! I'm a passionate AI & ML Engineering student with interests in Android development, Python projects, and Electronics.
 
 ## 🔭 Skills
 
-- Android Development 📱
-- Web Devloper
+- Python Web Devloper
 - machine Learning
   
 
@@ -21,8 +19,9 @@ Welcome to my GitHub profile! I'm a passionate AI & ML Engineering student with 
 
 I'm always eager to learn new technologies and expand my skillset. Currently, I'm focusing on:
 
-- Machine Learning 🤖
-- Web Development 🌐
+- Advanced Machine Learning 🤖
+- React Development
+- Problem Solving
 
 ## 🚀 Projects
 

@@ -1,127 +1,30 @@
-# 👨‍💻 Soumyaranjan Sahoo
+<h1 align="center">Hi 👋, I'm Soumyaranjan sahoo</h1>
+<h3 align="center">A passionate AI Engineer from India</h3>
 
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Soumyaranjan+Sahoo;🚀+AI+%26+ML+Engineering+Student" alt="Typing SVG" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-soumya18&label=Profile%20views&color=0e75b6&style=flat" alt="i-soumya18" /> </p>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/soumya-ranjan-sahoo-b06807248/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/soumya78948">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://www.soumyaranjansahoo.tech/">
-        <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
-    </a>
-</div>
+- 👨‍💻 All of my projects are available at [https://soumyaranjansahoo.web.app/](https://soumyaranjansahoo.web.app/)
 
-## 📊 GitHub Stats
+- 📝 I regularly write articles on [https://medium.com/@sahoosoumya242004](https://medium.com/@sahoosoumya242004)
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=i-soumya18&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-soumya18&theme=radical" alt="GitHub Streak" height="170" />
-</div>
+- 📫 How to reach me **sahoosoumya242004@gmail.com**
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-soumya18&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GYXEnnbNglSibIxhjwXp-5KwplYe2ql9/view](https://drive.google.com/file/d/1GYXEnnbNglSibIxhjwXp-5KwplYe2ql9/view)
 
-## 💼 Skills & Expertise
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soumya78948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumya78948" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumya-ranjan-sahoo-b06807248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-ranjan-sahoo-b06807248/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/soumyaranjansahoo8946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumyaranjansahoo8946" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soumya789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumya789" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Problem%20Solving-4B275F?style=for-the-badge&logo=leetcode&logoColor=white" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## 🔭 Current Focus
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-soumya18&show_icons=true&locale=en&layout=compact" alt="i-soumya18" /></p>
 
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
-                <br>Advanced ML
-            </td>
-            <td align="center">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-                <br>React
-            </td>
-            <td align="center">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-                <br>Python
-            </td>
-        </tr>
-    </table>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-soumya18&show_icons=true&locale=en" alt="i-soumya18" /></p>
 
-## 📚 Projects Timeline
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-soumya18&" alt="i-soumya18" /></p>
 
-<div align="center">
-    <table>
-        <tr>
-            <th>Project</th>
-            <th>Description</th>
-            <th>Tech Stack</th>
-            <th>Date</th>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/i-soumya18/Personality-Prediction-System-via-CV-Analysis">
-                    <img src="https://img.shields.io/badge/-Personality%20Prediction-512BD4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDIuOTk3YzQuODA2IDAgOC43MDMgMy45NTUgOC42OCA4LjgxMi0uMDIzIDQuOTE3LTMuODgxIDguODE4LTguNjggOC44MTgtNC44OTggMC04LjY4OS0zLjk5LTguNjgtOC44MTggMC00LjlbcDA4LTMuOTQzIDguNjgtOC44MTJ6bS00LjI1MyA3LjYzN2MtLjAwNiAxLjY2OCAxLjA0MSAyLjk3NiAyLjQyNiAzLjQ4MSAuNjAzLjIyIDEuMzU0LjEyOCAxLjgyNC0uMjIzIDEuMTczLS44OTQgMS44MjYtMy45NjUgMS44MjYtMy45NjVzLjY3NyAzLjA2MSAxLjg3NiAzLjk2NWMuNDcuMzUxIDEuMjIuNDQzIDEuODI0LjIyMyAxLjM5MS0uNTA0IDIuNDQxLTEuODEzIDIuNDQtMy40OHYtLjgwNmMwLTEuMzM1LTIuMjM0LTMuMDk3LTIuOTQ0LTMuNi0xLjEzMy0uODk0LTMuMTk3LTEuNDctMy4xOTctMS40N3MtMi4wNzcuNTUzLTMuMTk3IDEuNDdjLS43MDkuNTAzLTIuOTQ0IDIuMjY1LTIuOTQ0IDMuNnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
-                </a>
-            </td>
-            <td>AI system that analyzes CVs to predict personality traits of candidates</td>
-            <td>Python, ML, NLP</td>
-            <td>Dec 2023</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/i-soumya18/Plagiarism-Detection">
-                    <img src="https://img.shields.io/badge/-Plagiarism%20Detection-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
-                </a>
-            </td>
-            <td>Tool to detect similarities between text documents and identify plagiarism</td>
-            <td>Python, NLP, Flask</td>
-            <td>Oct 2023</td>
-        </tr>
-    </table>
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,react,html,css,nodejs,tensorflow,flask,mysql,sqlite,cpp,c" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=i-soumya18&theme=react-dark" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=i-soumya18&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-## 📫 Get in Touch
-
-I'm always open to collaborating on exciting projects or discussing AI, ML, and technology. Let's create something amazing together!
-
-<div align="center">
-    <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-</div>
-
----
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=i-soumya18&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>

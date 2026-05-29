@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://soumyaranjansahoo.web.app/">
+  <a href="https://soumyaranjansahoo.in/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-soumyaranjansahoo.web.app-7C3AED?style=for-the-badge"/>
   </a>
   &nbsp;
@@ -34,7 +34,7 @@
 
 I'm a **CSE (AI & ML) grad** turned **founder** from Bhubaneswar, India.
 
-I co-founded **[RITE Labs](https://github.com/i-soumya18)** — an Android app studio building AI-native products — and I'm currently building **[SysLab](https://syslab.codes)**, an EdTech SaaS where students *simulate* distributed systems instead of passively reading about them.
+I co-founded **[RITE Labs](https://github.com/i-soumya18)** — an Android app studio building AI-native products — and I'm currently building **[SysLab](https://syslabs.app)**, an EdTech SaaS where students *simulate* distributed systems instead of passively reading about them.
 
 I've competed at national ML level (Top 500 out of 60,000 teams in the Amazon ML Challenge), been selected for Amazon's invite-only ML program, and shipped products that live on the Play Store. Not in that order.
 
